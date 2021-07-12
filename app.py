@@ -27,7 +27,7 @@ def uploader():
 	if request.method == 'POST':
 		# Get the file from post request
 		f = request.files['file']
-
+		#path
 		path = os.path.dirname(__file__)
 		basepath=os.path.normpath(path)
 
