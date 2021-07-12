@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Brain Tumor Detection</title>  
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="icon" href="static\img\doc.png" sizes="240x240">
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  /* padding: 10px; */
+  background-color: whitesmoke;
+  font-family: Tahoma, sans-serif;
+  
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  min-height: 1vh;
+  background-color: #333;
+}
+
+main {
+  flex: 1;
+}
+.center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 100%;
+      }
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  align-items: center;
+  align-content: center;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+
+</style>
+</head>
+<body>
+<!--  background-color:#9b1fe9-->
+<!-- <div style=" text-align:center;padding: 10px ;margin-top: 15px;margin-bottom: 5px;">
+	<span 
+        style=" background-color:#9b1fe9 ;align-content: center; color: #fff ;font-size:51px;padding: 10px;"><b>Brain Tumor Detection</b>
+    </span>
+	</div> -->
+
+  <div class="topnav" id="myTopnav">
+    <a href="https://index-home.netlify.app/" class="active">Home</a>
+    <a href=" http://127.0.0.1:5000/ "  target="_blank">Detection</a>
+    <a href="https://index-aboutproject.netlify.app/" >About Project</a>
+    <a href="https://index-implementation.netlify.app/">Implementation</a>
+    <a href="https://index-gallery.netlify.app/">Gallery</a>
+    <a href="https://index-contact-us.netlify.app/" >Contact us</a>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+      <i class="fa fa-bars"></i>
+    </a>
+  </div>
+
+  <img src="images\svg_home\1.svg" alt="image1" class="center">
+  
+  <img src="images\svg_home\2.svg" alt="image2" class="center">
+  
+  <img src="images\svg_home\3.svg" alt="image3" class="center">
+  
+  <h1 style="color: black;margin-left: 10px;">Common Symptoms of Brain Tumor:</h1>
+  <!-- <img src="images\svg_home\4.svg" alt="image4" class="center"> -->
+
+  <div style=" display: flex; justify-content: center;">
+  <video id="vid" width="1000px" height="600px" onmouseover="test1()" onmouseout = "test2()">
+    <source src="viod.mp4" type="video/mp4" />
+  </video>
+  </div>
+
+
+  <br>
+  <div class="footer">
+    <p style="text-align: center;color: white;">@copyright 2021 | Brain Tumor Detection Using CNN
+  </div>
+  <script>
+    var video = document.getElementById("vid");
+
+    function test1() {
+    video.controls = true;
+    }
+
+        function test2() {
+    video.controls= false;
+    }
+    </script>
+ 
+
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
+
+</body>
+</html>

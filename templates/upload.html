@@ -1,0 +1,82 @@
+<html><!DOCTYPE html>
+<head>
+	<title>Brain Tumor Detection</title>
+	<link rel="icon" href="static/img/doc.png" sizes="240x240">
+
+	<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+	<script>
+    function previewFile(input){
+        var file = $("input[type=file]").get(0).files[0];
+ 
+        if(file){
+            var reader = new FileReader();
+  
+            reader.onload = function(){
+                $("#previewImg").attr("src", reader.result);
+            }
+ 
+            reader.readAsDataURL(file);
+        }
+    }
+	</script>
+	</head>
+	<style>
+	
+	body{
+		 background-color: #f1d100; 
+		
+	}
+	 .bg { 
+			background-image: url(static/img/bg.svg);
+
+			/* Full height */
+			height: 100%; 
+			
+
+			/* Center and scale the image nicely */
+			 background-position: center; 
+			background-repeat: no-repeat;
+			 background-size: cover; 
+			} 
+
+	.center{
+		text-align: left;
+	}
+
+
+
+	</style>
+
+	<body>
+		
+		 <div style=" text-align:center;background-color: #333;">
+			 <span 
+					style="background-color: #333;align-content: center; color: white;font-size:51px;">Brain Tumor Detection
+			</span> 
+		</div> 
+
+		<div class="bg">
+				<div class="center">
+				<p style="font-size: 40px;">Upload Image: </p>
+				
+				<form  action="http://127.0.0.1:5000/uploader" method="post"  enctype = "multipart/form-data">
+        		<p>
+
+            		<input type="file" name="file" accept=".png, .jpg, .jpeg" onchange="previewFile(this);" required>
+       			</p>
+
+        			<img id="previewImg" src="/examples/images/transparent.png" alt="Placeholder" height="30%" width ="30%">
+        		<p>
+
+            		<input type="submit" value="Predict">
+        		</p>
+
+				</form>
+				</div>
+			</div>
+			
+	
+	</body>
+	</html>
+
+
