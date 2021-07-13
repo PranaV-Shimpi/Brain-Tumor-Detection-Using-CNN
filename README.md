@@ -50,15 +50,15 @@ Video Credits: Narayana Helth
 
 # Upcomming Features
 
-  - Analysis of Brain tumor using Age Factor.
-  - Analysis of Brain Tumor usinf Male/Female Factor.
-  - Mutiple Disease Prediction Platform.
-  - Fully Hosted Website so CNN model Will get trained continuously.
-  ⚪
+  ⚪ Analysis of Brain tumor using Age Factor.
+  ⚪ Analysis of Brain Tumor usinf Male/Female Factor.
+  ⚪ Mutiple Disease Prediction Platform.
+  ⚪ Fully Hosted Website so CNN model Will get trained continuously.
+  
   
   
   
 ***Glad to see you here! Show some love by [starring](https://github.com/PranaV-Shimpi/Brain-Tumor-Detection-Using-CNN/) this repo.***
-<p align="center">
+
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@PranaVShimpi&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/pranav-shimpi/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@PranaVShimpi&color=grey&logo=twitter&style=flat&logoColor=white&colorA=blue)](https://twitter.com/PranaVShimpii)
- <p>
+ 
