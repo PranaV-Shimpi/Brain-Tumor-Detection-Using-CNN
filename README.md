@@ -3,59 +3,58 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/PranaV-Shimpi) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/PranaV-Shimpi).
 
 This is a highly scalable, low cost and high performant one stop solution to:
-  ⚪ Upload Brain Tumor Image and get the detection done.
-  ⚪ Knowledge about Common Symptomes.
-  ⚪ Free availability
+  - Upload Brain Tumor Image and get the detection done.
+  - Knowledge about Common Symptomes.
+  - Free availability
   
 # Project Overview
   
 ## Screenshots
-<p align="center">
+
 ![Screenshot (445)](https://user-images.githubusercontent.com/40532644/125427493-62afbbeb-4773-472a-9eb4-9299df2276cb.png)
 
 ![Screenshot (446)](https://user-images.githubusercontent.com/40532644/125427512-c6031d06-61e5-4503-8e5c-42414e0a9252.png)
 
 ![Screenshot (447)](https://user-images.githubusercontent.com/40532644/125427522-caaed0fa-6e75-469d-82d6-3745ce868653.png)
-<p>
 
 ## Symptomps of Brain Tumor
 Video Credits: Narayana Helth
-<p align="center">
+
 ![Screenshot (479)](https://user-images.githubusercontent.com/40532644/125427545-5666a7c9-3035-492b-8af3-977c5c7f5966.png)
-<p>
+
 
 ## Brain Tumor Detection Page
-<p align="center">
+
 ![Screenshot (470)](https://user-images.githubusercontent.com/40532644/125427534-83fe0a15-c53d-4d6b-aed9-33cdd84b337b.png)
-<p>
+
 ## Preloader
-<p align="center">
+
 ![Screenshot (459)](https://user-images.githubusercontent.com/40532644/125427598-61461399-8406-4db4-a6ad-b8ab95a4e012.png)
-<p>
+
 ## Results - Brain Tumor Detected / Not Detected
-<p align="center">
+
 ![Screenshot (480)](https://user-images.githubusercontent.com/40532644/125427569-d647cdb3-7064-45f0-82b5-e89639e164ec.png)
-<p>
+
   
 ## Tech Stack
 Frontend : HTML, CSS, Javascript
 Backend : Flask Web Framework by Python
-<p align="center">
+
 ![technology](https://user-images.githubusercontent.com/40532644/125425769-d438fecb-6fc8-4daa-8dfc-d757dc3c5f1a.png)
-<p>
+
   
 ## Sequence Diagram 
-<p align="center">
+
 ![SequenceDia](https://user-images.githubusercontent.com/40532644/125425826-548ad4cd-6ad6-4700-a2ab-842bf642ef8f.png)
-<p>
+
 
 # Upcomming Features
 
-  ⚪ Analysis of Brain tumor using Age Factor.
-  ⚪ Analysis of Brain Tumor usinf Male/Female Factor.
-  ⚪ Mutiple Disease Prediction Platform.
-  ⚪ Fully Hosted Website so CNN model Will get trained continuously.
-  
+  - Analysis of Brain tumor using Age Factor.
+  - Analysis of Brain Tumor usinf Male/Female Factor.
+  - Mutiple Disease Prediction Platform.
+  - Fully Hosted Website so CNN model Will get trained continuously.
+  ⚪
   
 ***Glad to see you here! Show some love by [starring](https://github.com/PranaV-Shimpi/Brain-Tumor-Detection-Using-CNN/) this repo.***
 
