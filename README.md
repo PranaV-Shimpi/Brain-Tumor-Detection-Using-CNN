@@ -37,8 +37,8 @@ Video Credits: Narayana Helth
 
   
 ## Tech Stack
-  : Frontend : HTML, CSS, Javascript
-  : Backend : Flask Web Framework by Python
+  - Frontend : HTML, CSS, Javascript.
+  - Back-end : Flask Web Framework by Python.
 
 ![technology](https://user-images.githubusercontent.com/40532644/125425769-d438fecb-6fc8-4daa-8dfc-d757dc3c5f1a.png)
 
