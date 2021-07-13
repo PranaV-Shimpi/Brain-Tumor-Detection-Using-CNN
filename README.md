@@ -49,12 +49,11 @@ Video Credits: Narayana Helth
 
 
 # Upcomming Features
-
-  ⚪ Analysis of Brain tumor using Age Factor.
-  ⚪ Analysis of Brain Tumor usinf Male/Female Factor.
-  ⚪ Mutiple Disease Prediction Platform.
-  ⚪ Fully Hosted Website so CNN model Will get trained continuously.
   
+  - Analysis of Brain tumor using Age Factor.
+  - Analysis of Brain Tumor usinf Male/Female Factor.
+  - Mutiple Disease Prediction Platform.
+  - Fully Hosted Website so CNN model Will get trained continuously.
   
   
   
