@@ -37,8 +37,8 @@ Video Credits: Narayana Helth
 
   
 ## Tech Stack
-Frontend : HTML, CSS, Javascript
-Backend : Flask Web Framework by Python
+  : Frontend : HTML, CSS, Javascript
+  : Backend : Flask Web Framework by Python
 
 ![technology](https://user-images.githubusercontent.com/40532644/125425769-d438fecb-6fc8-4daa-8dfc-d757dc3c5f1a.png)
 
@@ -56,6 +56,9 @@ Backend : Flask Web Framework by Python
   - Fully Hosted Website so CNN model Will get trained continuously.
   ⚪
   
+  
+  
 ***Glad to see you here! Show some love by [starring](https://github.com/PranaV-Shimpi/Brain-Tumor-Detection-Using-CNN/) this repo.***
-
+<p align="center">
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@PranaVShimpi&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/pranav-shimpi/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@PranaVShimpi&color=grey&logo=twitter&style=flat&logoColor=white&colorA=blue)](https://twitter.com/PranaVShimpii)
+ <p>
