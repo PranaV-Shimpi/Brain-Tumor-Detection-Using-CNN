@@ -2,7 +2,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/PranaV-Shimpi)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/PranaV-Shimpi) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/PranaV-Shimpi).
 
-This is a highly scalable, low cost and high performant one stop solution to:
+This is a highly scalable and high performant one stop solution to:
   - Upload Brain Tumor Image and get the detection done.
   - Knowledge about Common Symptomes.
   - Free availability
@@ -57,7 +57,7 @@ Video Credits: Narayana Helth
   
   
   
-***Glad to see you here! Show some love by [starring](https://github.com/PranaV-Shimpi/Brain-Tumor-Detection-Using-CNN/) this repo.***
+*** Show your support by [starring](https://github.com/PranaV-Shimpi/Brain-Tumor-Detection-Using-CNN/) this repo.***
 
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@PranaVShimpi&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/pranav-shimpi/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@PranaVShimpi&color=grey&logo=twitter&style=flat&logoColor=white&colorA=blue)](https://twitter.com/PranaVShimpii)
  
