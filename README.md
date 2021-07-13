@@ -56,7 +56,7 @@ Video Credits: Narayana Helth
   - Fully Hosted Website so CNN model Will get trained continuously.
   
   
-  
+ <hr>
 *** Show your support by [starring](https://github.com/PranaV-Shimpi/Brain-Tumor-Detection-Using-CNN/) this repo.***
 
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@PranaVShimpi&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/pranav-shimpi/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@PranaVShimpi&color=grey&logo=twitter&style=flat&logoColor=white&colorA=blue)](https://twitter.com/PranaVShimpii)
