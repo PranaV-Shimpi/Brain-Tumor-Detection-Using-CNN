@@ -35,7 +35,10 @@ Video Credits: Narayana Helth
 
 ![Screenshot (480)](https://user-images.githubusercontent.com/40532644/125427569-d647cdb3-7064-45f0-82b5-e89639e164ec.png)
 
-  
+## Accuracy Comparison
+![Result 1](https://user-images.githubusercontent.com/40532644/129471092-cd75df16-4c6b-49a5-a5df-a6b20d899d25.png)
+
+
 ## Tech Stack
   - Frontend : HTML, CSS, Javascript.
   - Back-end : Flask Web Framework by Python.
